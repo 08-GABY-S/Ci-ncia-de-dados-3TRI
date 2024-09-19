@@ -1,2 +1,2 @@
-# Ci-ncia-de-dados-3TRI
+# Ciência-de-dados-3TRI
 Site sobre análise de dados
